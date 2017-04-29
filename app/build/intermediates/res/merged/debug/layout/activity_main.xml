@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/MainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:background="@drawable/double_room"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textViewOppetTider"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#80FFFFFF"
+                android:padding="5dp"
+                android:text="Öppett måndag - fredag"
+                android:textAlignment="center"
+                android:textColor="#eb1f07"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView817"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#80FFFFFF"
+                android:text="08 - 17"
+                android:textAlignment="center"
+                android:textColor="#eb1f07"
+                android:textSize="40sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eb1f07"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:text="Duvan Hotell"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:paddingBottom="5dp">
+
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/dialler" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/email" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/direction" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingTop="6dp"
+                android:text="Call"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#eb1f07"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingTop="6dp"
+                android:text="E-mail"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#eb1f07"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingTop="6dp"
+                android:text="Website"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#eb1f07"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:background="#eb1f07" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:textAlignment="center">
+
+            <TextView
+                android:id="@+id/textViewLocation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="Dragarbrunnsgatan 69, 753 20 Uppsala, Sweden"
+                android:textAlignment="center"
+                android:textColor="#eb1f07"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:background="#eb1f07" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:paddingLeft="30dp"
+            android:paddingTop="10dp"
+            android:text="About Us"
+            android:textColor="#eb1f07"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="4"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:text="Duvan Hotell is 5 minutes’ walk from Uppsala Central Station and the main square, Stora Torget. The bright rooms include a desk and TV. Guests can enjoy free WiFi throughout the property."
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_7193247ab17a9a5f163fbbab1af3a36c10e08ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_fb23032a8e3c02af2e138c3869798d4ab919eec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_63d994cb51621554a09e02599ccd597f59930a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_bd4699be00e32d80ccf96c55f7d1edab57a0d734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_8a5601994c408a9a8ce04b9fd5cf0b7d1b3f68ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_b81c4e6dbf18802781d88c52b6070d2c9bdb3cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_8b7e4381dbb80b6540f2d79e258a5ce3817097b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_21376654263e9f56446a76523640786c2875264b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_8b16b00a90b3b73a336a7720f92a8e291227f223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\CopiedfromOld\DuvanHotell\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_729f7ecb4c17f90413c438e9b3ab6f8fcccba04c.jar" />
+    </item>
+
+</items>
